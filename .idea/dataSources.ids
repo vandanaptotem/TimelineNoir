@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails TimelineNoir: development" uuid="ffd7a2d8-1040-4367-b76f-7ad10ccce4fe">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails TimelineNoir: test" uuid="fb68fbbc-dd18-471d-be27-0391baa1aff3">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails imageloc: development" uuid="44b8a2c6-a7d2-4d39-a094-3f6d2e6dfb97">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

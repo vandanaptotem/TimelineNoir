@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Emailsend/.idea/Emailsend.iml" filepath="$PROJECT_DIR$/../Emailsend/.idea/Emailsend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TimelineNoir/.idea/TimelineNoir.iml" filepath="$PROJECT_DIR$/../TimelineNoir/.idea/TimelineNoir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/imageloc.iml" filepath="$PROJECT_DIR$/.idea/imageloc.iml" />
+      <module fileurl="file://$USER_HOME$/leaderboard/.idea/leaderboard.iml" filepath="$USER_HOME$/leaderboard/.idea/leaderboard.iml" />
+      <module fileurl="file://$USER_HOME$/myapptry/.idea/myapptry.iml" filepath="$USER_HOME$/myapptry/.idea/myapptry.iml" />
+    </modules>
+  </component>
+</project>
+
